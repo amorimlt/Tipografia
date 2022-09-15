@@ -1,0 +1,26 @@
+body{
+    background-color:#f5ffc7;
+    font-family: poppins;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1, h2,h3, h4, h5, h6 {
+    font-family: lobster;
+    letter-spacing: 2px;
+    font-weight: 900;
+    text-align: center;
+    text-shadow: 3px 3px #d2e86b;
+}
+
+p {
+    font-family: poppins;
+    text-align: justify;
+}
+
+img {
+    display: flex;
+    margin: 0 auto;
+    box-shadow: 10px 10px #e7fa8c;
+    margin-bottom: 20px;
+}
